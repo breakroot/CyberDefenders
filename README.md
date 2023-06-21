@@ -146,11 +146,11 @@ Now let's try to solve some question with the information we already have.
 <img src="https://github.com/breakroot/CyberDefenders/blob/main/l'espion.png/qq2.png">
 
 
- Srolling down the same file we can see that there is a password written in base64.
+As we scroll down the same file, we can see a base64-encoded password.
 <p align="center">
 
 <img src="https://github.com/breakroot/CyberDefenders/blob/main/l'espion.png/q2.png">
-We need to decode it for the answer.<br>
+Decode it for the answer.<br>
  
  <img src="https://github.com/breakroot/CyberDefenders/blob/main/l'espion.png/q2..png"><br>
  * Answer
@@ -162,19 +162,19 @@ We need to decode it for the answer.<br>
 <img src="https://github.com/breakroot/CyberDefenders/blob/main/l'espion.png/qq3.png">
 
 
-Since we went through each repository one at a time a while back, we did come across various frameworks and tools that are connected to crypto-mining. It includes **XMRig**. **XMRig** is open-source software designed for mining cryptocurrencies like Monero or Bitcoin. <br>
+Since we previously walked through each repository one at a time, we have encountered a number of frameworks and tools related to crypto-mining. There is also **XMRig**. Open-source software called **XMRig** is made for mining cryptocurrencies like Monero or Bitcoin.. <br>
  <img src="https://github.com/breakroot/CyberDefenders/blob/main/l'espion.png/q3.png">
 
  * Answer
   ```sh
  XMRig
   ```
-We have solved first three question by analyzing given github profile. NOw, if we search insiders username which we got from github in google then we will see that the insider also have a linkedin and an instagram profile along with github.
+By examining the provided github profile, the first three questions have been answered. Now, if we search the insider's username that we copied from github on google, we'll discover that they also have accounts on Instagram and LinkedIn in addition to github.
 
 <p align="center">
 <img src="https://github.com/breakroot/CyberDefenders/blob/main/l'espion.png/q4.png"> 
 
-If we visit to the linkedin and instagram profile, we will find more information about him/her. 
+More details about the person are available on their linkedin and Instagram profiles. 
 
 
 **<h3>Question4</h3>**
@@ -182,7 +182,7 @@ If we visit to the linkedin and instagram profile, we will find more information
 <p align="center">
 <img src="https://github.com/breakroot/CyberDefenders/blob/main/l'espion.png/qq4.png"><br>
 
- We can see that the tread actor studied at the Sorbonne University.<br>
+It is evident that the performer for the play attended Sorbonne University.<br>
 
 <p align="center">
 <img src="https://github.com/breakroot/CyberDefenders/blob/main/l'espion.png/q4.4.png"><br>
@@ -196,8 +196,7 @@ Sorbonne
 <p align="center">
 <img src="https://github.com/breakroot/CyberDefenders/blob/main/l'espion.png/qq5.png"><br>
 
- We can also see from his/hers linkedin bio that he/she is on **steam**.
-**Steam** is a video game digital distribution service and storefront from Valve.<br>
+Additionally, we can observe from his or her linkedin bio that they are a member of Steam..<br>
 
 <p align="center">
 <img src="https://github.com/breakroot/CyberDefenders/blob/main/l'espion.png/q5.png">
@@ -215,7 +214,7 @@ Sorbonne
 <p align="center">
 <img src="https://github.com/breakroot/CyberDefenders/blob/main/l'espion.png/qq6.png"><br>
 
-  If we go to the insiders instagram account, we will find the link to the insiders instagram profile.
+The URL to the insiders Instagram profile can be found by visiting the insiders Instagram account.
 
 <p align="center">
 <img src="https://github.com/breakroot/CyberDefenders/blob/main/l'espion.png/q6.png"><br>
@@ -230,16 +229,16 @@ Sorbonne
   <p align="center">
 <img src="https://github.com/breakroot/CyberDefenders/blob/main/l'espion.png/qq7.png"><br>
  
-  In insiders instagram account, he/she posted a picture of the placee where he/she visited on holyday.
+ He or she uploaded a picture of the location they visited over the holiday to insiders' Instagram account.
 
 <p align="center">
 <img src="https://github.com/breakroot/CyberDefenders/blob/main/l'espion.png/q7.png"><br>
  
-  The place looks familliar. To make sure we can reverse image search the picture.
+ We can reverse image search this picture.<br>
  
 <p align="center">
 <img src="https://github.com/breakroot/CyberDefenders/blob/main/l'espion.png/q7.1.png"><br>
- We can see that the stucture of the picture is Marina Bay Sands which is in Singapore.
+ It is a picture of the stucture Marina Bay Sands which is in Singapore.
     
    * Answer
   ```sh
@@ -250,23 +249,23 @@ Sorbonne
    <p align="center">
 <img src="https://github.com/breakroot/CyberDefenders/blob/main/l'espion.png/qq8.png"><br>
 
-  The insiders posted 2 picture on instagram witha caption "Nice to meet friends & family Photo 1/2". In 1st picture we can sea a UAE flag in back.<br>
+ "Nice to meet friends & family Photo 1/2" was the caption on 2 photos that The Insiders uploaded on Instagram. A UAE flag can be seen in the back in the first image.<br>
 
  <p align="center">
 <img src="https://github.com/breakroot/CyberDefenders/blob/main/l'espion.png/q8.png"><br>
   
-  So the country the insider lives in must be UAE. But we need the city name.<br>
-  In the second picture we can see Burj Khalifa in the back. 
+  So the country of inser must be UAE.<br>
+From the second picture we can see Burj Khalifa in the back. 
    
 <p align="center">
    <img src="https://github.com/breakroot/CyberDefenders/blob/main/l'espion.png/q8.1.png"><br>
      
-  To make sure, we can reverse image search this.
+Search this image in the google.
    
   <p align="center">
    <img src="https://github.com/breakroot/CyberDefenders/blob/main/l'espion.png/q8.2.png"><br>
     
-  The city insiders family live is **Dubai**
+ we can see he city insiders family live is **Dubai**
      
    * Answer
   ```sh
@@ -280,12 +279,12 @@ Sorbonne
   <p align="center">
 <img src="https://github.com/breakroot/CyberDefenders/blob/main/l'espion.png/office.jpg"><br>
   
-  we can reverse image search this.
+  Reverse image search this.
   
   <p align="center">
 <img src="https://github.com/breakroot/CyberDefenders/blob/main/l'espion.png/q9.png"><br>
     
-    We can see the structue in this picture is Birmingham new street station entrance.
+    The structure in this image is clearly the entrance of Birmingham New Street Station.
     
    * Answer
   ```sh
@@ -300,18 +299,17 @@ Sorbonne
 <p align="center">
 <img src="https://github.com/breakroot/CyberDefenders/blob/main/l'espion.png/WebCam.png"><br>
 
-For the last question we have this webcam image from EarthCam. To solve this easily, reverse image search this image.
+We have this webcam image from EarthCam to answer your final query. Use a reverse image search on this image to quickly solve this.
     
  <p align="center">
 <img src="https://github.com/breakroot/CyberDefenders/blob/main/l'espion.png/WebCam.png"><br>
 
-Now if we search where University of Notre Dame is located, it shows Indiana,
+Now if we search where University of Notre Dame is located which is **Indiana**.
 
 <p align="center">
 <img src="https://github.com/breakroot/CyberDefenders/blob/main/l'espion.png/q10.1.png"><br>
 
    
-We found an image with the same angle and point-of-view which was also uploaded in EarthCam. It was taken from the University of Notre Dame live Webcam. The said school is located adjacent to South Bend, Indiana.
    
    * Answer
   ```sh
