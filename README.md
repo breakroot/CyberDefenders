@@ -28,7 +28,7 @@
   <br>
   
 
-  <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L'espion-images/cyberdefenders_og%20copy.png">
+  <img src="https://github.com/breakroot/CyberDefenders/blob/main/l'espion.png/cyberdefenders_og%20copy.png">
 
 <h3 align="center">Project Module - Blue Teaming</h3>
 </div>
