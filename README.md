@@ -130,7 +130,7 @@ Now let's try to solve some question with the information we already have.
 <img src="https://github.com/breakroot/CyberDefenders/blob/main/l'espion.png/qq1.png">
 
 
-  Our main goal here is to find out the API key added to the respiratories. Since we've checked all 14 repositories one by one, we found something interesting in the repository named "Project Build — Custom-Login-Page". This repository has two files. As soon as we open the "Login Page.js" file, we can see the API key in the code's top-most section. 
+Our main goal here is to find out the API key added to the respiratories. Since we've checked all 14 repositories one by one, we found something interesting in the repository named "Project Build — Custom-Login-Page". This repository has two files. As soon as we open the "Login Page.js" file, we can see the API key in the code's top-most section. 
 
 
 <p align="center">
@@ -265,7 +265,7 @@ Search this image in the google.
   <p align="center">
    <img src="https://github.com/breakroot/CyberDefenders/blob/main/l'espion.png/q8.2.png"><br>
     
- we can see he city insiders family live is **Dubai**
+ we can see the city insiders family live is **Dubai**
      
    * Answer
   ```sh
@@ -302,7 +302,7 @@ Search this image in the google.
 We have this webcam image from EarthCam to answer your final query. Use a reverse image search on this image to quickly solve this.
     
  <p align="center">
-<img src="https://github.com/breakroot/CyberDefenders/blob/main/l'espion.png/WebCam.png"><br>
+<img src="https://github.com/breakroot/CyberDefenders/blob/main/l'espion.png/q10.png"><br>
 
 Now if we search where University of Notre Dame is located which is **Indiana**.
 
